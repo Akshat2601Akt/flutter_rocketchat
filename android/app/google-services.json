@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045717145621",
+    "project_id": "rocket-chat-1155d",
+    "storage_bucket": "rocket-chat-1155d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045717145621:android:880d960cb63bcf0f51561c",
+        "android_client_info": {
+          "package_name": "com.example.rocket_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045717145621-ctaeb8j9l4ar12q5konblib8ifaoc9ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkG9sW6kirtkC3sm75Ip1EcZAcmfjGnoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045717145621-ctaeb8j9l4ar12q5konblib8ifaoc9ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
